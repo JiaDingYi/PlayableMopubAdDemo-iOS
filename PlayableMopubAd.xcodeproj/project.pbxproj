@@ -522,6 +522,7 @@
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = VG25A6M88T;
 				INFOPLIST_FILE = PlayableMopubAd/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.zplay.PlayableMopubAd;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -540,6 +541,7 @@
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = L5UE3EGW93;
 				INFOPLIST_FILE = PlayableMopubAd/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.zplay.PlayableMopubAd;
 				PRODUCT_NAME = "$(TARGET_NAME)";
